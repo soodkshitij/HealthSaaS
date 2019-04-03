@@ -1,0 +1,2 @@
+export const AUTH_ACTIVITY = 'AUTH_ACTIVITY';
+export const UNAUTH_ACTIVITY = 'UNAUTH_ACTIVITY';
